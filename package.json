@@ -1,0 +1,35 @@
+{
+  "name": "omeumei",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/core": "^0.8.0",
+    "@chakra-ui/icons": "^1.0.15",
+    "@chakra-ui/react": "^1.7.3",
+    "@emotion/react": "11",
+    "@emotion/styled": "11",
+    "aos": "^3.0.0-beta.6",
+    "axios": "^0.24.0",
+    "formik": "^2.2.9",
+    "framer-motion": "4",
+    "next": "12.0.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-responsive-carousel": "^3.2.22",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@types/node": "^16.4.11",
+    "@types/react": "^17.0.15",
+    "eslint": "8.5.0",
+    "eslint-config-next": "12.0.7",
+    "typescript": "^4.4.3"
+  }
+}
